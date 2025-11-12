@@ -6,7 +6,7 @@
 
 
 # BRAD WIRTH
-**Omaha, NE** | 402-690-6750 | strongbrad@gmail.com | [LinkedIn Profile]  | [Github Profile](https://github.com/strongbrad007)
+**Omaha, NE** | 402-690-6750 | strongbrad@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/bradley-wirth-0619b16/)  | [Github Profile](https://github.com/strongbrad007)
 
 ## PROFESSIONAL SUMMARY
 Dynamic and seasoned IT leader with over 10 years of expertise in DevSecOps architecture, cloud platform deployment, systems engineering, networking, and cybersecurity. Proven track record in strategic planning, CI/CD pipelines, and ensuring HIPAA/PCI/FIPS compliance. Excel as a technical liaison and trusted advisor, leveraging broad industry knowledge, exceptional communication skills, and a composed demeanor to drive mission-critical projects. Hold active SCI and Top Secret (TS) clearances, along with CompTIA Security+ certification (obtained 2016).
